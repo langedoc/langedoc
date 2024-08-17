@@ -1,13 +1,16 @@
-## Hi there, I´m Yulia 👋
+# Hi there, I´m Yulia 👋
 
-I´m a fast learner and a result-driven full-stack developer.
+I'm a passionate and results-driven Full-Stack Developer with a knack for quickly mastering new technologies. I thrive in dynamic environments where I can leverage my problem-solving skills to deliver high-quality, scalable solutions. Whether it’s front-end development or full-stack integration, I’m dedicated to building impactful digital experiences.
 
-### Connect with me:
+## ✨ Let's Connect!
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Or reach me by 📫: yulia.kapustina@gmail.com
 
-### My Tech Stack:
+## 💼 Current Focus:
+
+### Languages & Tools:
+
 ![JavaScript][JavaScript] ![TypeScript][TypeScript]
 
 ![HTML] ![CSS]
@@ -19,6 +22,11 @@ Or reach me by 📫: yulia.kapustina@gmail.com
 ![Cypress] ![Vitest]
 
 ![Git]
+
+### 🌱 I’m currently exploring:
+
+- Advanced design patterns in React.
+- Docker
 
 <!-- BADGES -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
