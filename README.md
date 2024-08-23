@@ -19,6 +19,8 @@ Or reach me by 📫: yulia.kapustina@gmail.com
 
 ![Node.js] ![Express] ![PostgreSQL] ![MongoDB] ![Sequelize]
 
+![Redux]
+
 ![Cypress] ![Vitest]
 
 ![Git]
@@ -45,6 +47,7 @@ Or reach me by 📫: yulia.kapustina@gmail.com
 [Cypress]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
 [Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Vitest]: https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
+[Redux]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 
 <!--
 **langedoc/langedoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
