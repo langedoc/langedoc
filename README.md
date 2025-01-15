@@ -21,7 +21,7 @@ Or reach me by 📫: yulia.kapustina@gmail.com
 
 ![Redux]
 
-![Cypress] ![Vitest]
+![Cypress] ![Vitest] ![Jest]
 
 ![Git]
 
@@ -47,6 +47,7 @@ Or reach me by 📫: yulia.kapustina@gmail.com
 [Cypress]: https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e
 [Git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Vitest]: https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
+[Jest]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [Redux]: https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
 
 <!--
